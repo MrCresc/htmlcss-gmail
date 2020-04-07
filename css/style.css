@@ -1,0 +1,74 @@
+/*Generale*/
+body {
+  background-image: url(../img/background.jpg);
+  width: 50%;
+  margin: auto;
+}
+/*Fine Generale*/
+
+/*Header*/
+.header img{
+  height: 100px;
+  vertical-align: middle;
+}
+
+.titolo {
+  color: white;
+  font-size: 25px;
+}
+/*Fine Header*/
+
+.riga1 {
+  margin-top: 0px;
+}
+
+/*Barra multifunzione*/
+.alert {
+  color: white;
+  font-size: 25px;
+  margin-top: 5px;
+  line-height: 50px;
+}
+
+.alert span {
+  background-color: orange;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+/*Fine Barra multifunzione*/
+
+/*Email*/
+.nonlette {
+  background-color: lightgrey;
+  border: 1px solid black;
+  padding: 2px
+}
+
+.lette {
+  background-color: white;
+  border: 1px solid black;
+  padding: 2px
+}
+
+.oggetto {
+  color: grey;
+}
+/*Email*/
+
+/*Footer*/
+.footer {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.footer span {
+font-size: 15px;
+font-style: italic;
+}
+/*Fine Footer*/
